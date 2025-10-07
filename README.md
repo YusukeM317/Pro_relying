@@ -20,8 +20,8 @@ API for the Trust Ethereum Wallet.
 ## API [wiki](https://github.com/TrustWallet/trust-ray/wiki/API)
 
     
-## Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/TrustWallet/trust-wallet-backend)
+## Deploy on yusuke
+
 
 ## Locally (without docker)
 * Install required modules:
@@ -58,7 +58,7 @@ Dev tool:
 
 ## Authors
 
-* [Philipp Rieger](https://github.com/rip32700)
+* [Yusuke Morimoto](https://github.com/YusukeM317)
 * [Michael Scoff](https://github.com/michaelScoff)
 * [Mykola Radchenko](https://github.com/kolya182)
 
